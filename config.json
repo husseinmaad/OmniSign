@@ -1,0 +1,17 @@
+{
+  "internal_client_id": "d853da0e-660f-4ba6-99c1-33579e19f22d",
+  "username": "",
+  "password": "",
+  "esign_api_host": "https://demo.docusign.net/restapi",
+
+  "recipient_email": "hussein.maad@outlook.com",
+
+  "oauth_client_id": "",
+  "oauth_host": "https://account-d.docusign.com",
+
+  "template_id": "c44d9848-a6b7-4d33-b4ca-94d6561e4a96",
+  "templateRoles": [{
+      "roleName": "patient",
+      "name": "patient"
+  }]
+}
